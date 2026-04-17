@@ -73,7 +73,7 @@ const sukhman = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=dSukhman&theme=github-dark&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=dSukhman&theme=github-dark&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
 </p>
 
 <p align="center">
