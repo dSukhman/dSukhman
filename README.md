@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sukhman <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Waving%20Hand.png" width="32" /></h1>
+<h1 align="center">Hi there, I'm Sukhman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -21,9 +21,7 @@
 - 🚀 Open to **new-grad and internship opportunities**
 - 🌱 Always building, always learning
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dSukhman&style=for-the-badge&color=2F81F7" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=dSukhman&style=for-the-badge&color=2F81F7" />
 
 ---
 
