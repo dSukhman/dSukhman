@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sukhman 👋</h1>
+<h1 align="center">Hi there, I'm Sukhman <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Waving%20Hand.png" width="32" /></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,14 +9,21 @@
 <p align="center">
   <a href="https://linkedin.com/in/dsukhman540"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dsukhman540@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=dSukhman&style=for-the-badge&color=2F81F7" />
 </p>
 
 ---
 
 ### 🎓 About Me
 
-I'm a Computer Science student at the **University of Guelph** based in **Brampton, Ontario 🇨🇦**, working as a **Software Developer** with a focus on backend systems, APIs, and clean, maintainable code. I'm currently **open to new-grad and internship opportunities** — always building, always learning.
+- 🎓 Computer Science student at the **University of Guelph**
+- 📍 Based in **Brampton, Ontario 🇨🇦**
+- 💻 Working as a **Software Developer** focused on backend systems, APIs, and clean code
+- 🚀 Open to **new-grad and internship opportunities**
+- 🌱 Always building, always learning
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dSukhman&style=for-the-badge&color=2F81F7" />
+</p>
 
 ---
 
