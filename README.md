@@ -16,8 +16,9 @@
 ### 🎓 About Me
 
 - 🎓 Computer Science student at the **University of Guelph**
+- 💻 Interested in software development, system design, and building real-world applications
+- ⚙️ Experience across frontend, backend, and modern web technologies
 - 📍 Based in **Brampton, Ontario 🇨🇦**
-- 💻 Working as a **Software Developer** focused on backend systems, APIs, and clean code
 - 🚀 Open to **new-grad and internship opportunities**
 - 🌱 Always building, always learning
 
